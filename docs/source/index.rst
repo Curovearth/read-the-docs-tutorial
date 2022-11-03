@@ -7,8 +7,7 @@ This is an experimental documentation project such that I could finally work on 
 
    This project is under active development.
 
-Contents
---------
+
 
 .. toctree::
    :maxdepth: 2
