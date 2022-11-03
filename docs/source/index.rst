@@ -12,5 +12,5 @@ Contents
 
 .. toctree::
 
-   ed sheeran
-   imagine dragons
+   ed_sheeran
+   imagine_dragons

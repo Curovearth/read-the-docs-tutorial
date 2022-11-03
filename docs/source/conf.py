@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Bioinspired Perception and Robotics'
+copyright = '2022, Swarup Tripathy'
+author = 'Swarup Tripathy'
 
 release = '0.1'
 version = '0.1.0'
