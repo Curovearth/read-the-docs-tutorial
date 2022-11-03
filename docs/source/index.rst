@@ -11,6 +11,8 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents
 
    ed_sheeran
    imagine_dragons
